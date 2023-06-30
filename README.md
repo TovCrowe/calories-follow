@@ -3,7 +3,9 @@
 This will be a calorie tracking project developed in React. It will utilize a food API to fetch nutritional and calorie information for consumed foods. The goal is to facilitate the tracking of calories consumed and store the data on a monthly basis.
 
 ### What problem does this project solve?
-Tracking consumed calories can be complicated and requires consistent management. Currently, there are not many options that offer personalized tracking without relying on social media accounts. This project will address this problem by providing a lightweight and user-friendly platform for recording and calculating calories consumed, while also storing the data on a monthly basis for better organization.
+
+The project I want/will be working on aims to address this issue by providing a free and personalized platform for recording and calculating consumed calories. The goal is to offer you the freedom to choose from a comprehensive database of food items, including prepared foods, without having to pay for a premium subscription.
+I've been using calorie tracking apps myself, and I know how important it is to have the flexibility to accurately track your intake, whether it's a homemade meal or a packaged snack. With this project, I aim to create a solution that puts you in control of your calorie tracking journey. No more limitations or paywalls, just a lightweight and user-friendly platform designed to support your progress.
 
 ### Goals:
 
